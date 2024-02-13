@@ -103,3 +103,5 @@ Nota: Las estimaciones de tiempo son aproximadas y pueden variar según la compl
 
 
 ## Prototipo dibujo
+"C:\Users\Usuario\Desktop\Imagen de WhatsApp 2024-02-12 a las 21.32.05_3479481f.jpg"
+"C:\Users\Usuario\Desktop\Imagen de WhatsApp 2024-02-12 a las 21.14.10_f8296923.jpg"
