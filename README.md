@@ -16,23 +16,19 @@ Firmada por el empresario o docente ageno a la UTNG, agradeciendo la contribuci�
 Hoja membretada (Logo de la empresa, dirección y contacto)
 
 ### Lista del Hardware utilizado
+
 | ID  | Componente                                              | Descripción                                                  | Imagen | Cantidad | Costo total |
 |-----|---------------------------------------------------------|--------------------------------------------------------------|--------|----------|-------------|
-| 1   | Raspberry Pi 4B (o superior) con adaptador de corriente | Mini ordenador de una sola placa con adaptador de corriente | (![51Gkift2dvL __AC_SX300_SY300_QL70_ML2_](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/24e5d376-8092-4242-99c7-29ab949d88ec) | 1 | $347 |
-| 2   | Sensor de Sonido                                        | Sensor para detectar la presencia de sonidos en su entorno    | ![ABX00019](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/3a0c5bd5-4cbc-4d20-b725-8813c7723cea) | 4| $118      |
-| 3   | Sensor de  Proximidad                                   | Sensor para  detectar la presencia o la cercanía de objeto    | (![sensor-de-proximidad-por-infrarrojo](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/d356107c-e4c8-4d7d-930f-0b4dcbc8065e) | 4 | $70 |
-| 4   | Sensor de  Alejamiento                                  | Sensor para detecta la distancia entre el sensor y un objeto | ![311mU7DJggL _AC_](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/37629584-e26d-49a4-9c22-b225ca632bc2)
-| 4        | $108         |
-| 5   | Sensor de movimiento                                    | Sensor para detectar movimiento                              | ![41yzyHkyT6L _SY445_SX342_QL70_ML2_](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/3003ce48-390d-47e6-84b9-e7ee1aa5e135)
-| 4        | $243         |
-| 6   | LED                                                     | Dispositivo de iluminación                                   | ![LEDES](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/d1f311c5-ac3a-4c9b-a291-13ba9c4d0113)
-| 4        | $60|
-| 7   | Motor                                                   | Dispositivo para generar movimiento                           | ![mini-motor-de-corriente-directa](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/d7b7ff47-11ed-44fb-be7e-1a354dff5761)
-| 4| $25|
-| 8 | ESP32 (o módulo compatible)                            | Microcontrolador para comunicación inalámbrica               | ![AR1191-ESP32-38-Pin-800x800](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/352e5ef4-a15d-44ed-9990-08e154238b29)
- | 1 | $120         |
-| 9  | Cables, resistencias y otros componentes                | Componentes necesarios para conexiones                        | ![componentes-cables-electricos](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/54a1bc3f-8833-41eb-a842-2364c2408a1a)
- |2| $289|
+| 1   | Raspberry Pi 4B (o superior) con adaptador de corriente | Mini ordenador de una sola placa con adaptador de corriente | ![Raspberry Pi](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/24e5d376-8092-4242-99c7-29ab949d88ec) | 1 | $347 |
+| 2   | Sensor de Sonido                                        | Sensor para detectar la presencia de sonidos en su entorno  | ![Sensor de Sonido](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/3a0c5bd5-4cbc-4d20-b725-8813c7723cea) | 4 | $118 |
+| 3   | Sensor de Proximidad                                   | Sensor para detectar la presencia o la cercanía de un objeto| ![Sensor de Proximidad](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/d356107c-e4c8-4d7d-930f-0b4dcbc8065e) | 4 | $70 |
+| 4   | Sensor de Alejamiento                                  | Sensor para detectar la distancia entre el sensor y un objeto| ![Sensor de Alejamiento](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/37629584-e26d-49a4-9c22-b225ca632bc2) | 4 | $108 |
+| 5   | Sensor de Movimiento                                   | Sensor para detectar movimiento                              | ![Sensor de Movimiento](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/3003ce48-390d-47e6-84b9-e7ee1aa5e135) | 4 | $243 |
+| 6   | LED                                                     | Dispositivo de iluminación                                   | ![LED](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/d1f311c5-ac3a-4c9b-a291-13ba9c4d0113) | 4 | $60 |
+| 7   | Motor                                                   | Dispositivo para generar movimiento                           | ![Motor](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/d7b7ff47-11ed-44fb-be7e-1a354dff5761) | 4 | $25 |
+| 8   | ESP32 (o módulo compatible)                             | Microcontrolador para comunicación inalámbrica               | ![ESP32](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/352e5ef4-a15d-44ed-9990-08e154238b29) | 1 | $120 |
+| 9   | Cables, resistencias y otros componentes                | Componentes necesarios para conexiones                       | ![Componentes](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/54a1bc3f-8833-41eb-a842-2364c2408a1a) | 2 | $289 |
+
 
 
 
