@@ -32,15 +32,14 @@ Hoja membretada (Logo de la empresa, dirección y contacto)
 
 
 
-## Lista de Software utilizado
-| ID  | Software    | Versión | Tipo        |
-|-----|-------------|---------|-------------|
-| 1   | Node-RED    | -       | Entorno de programación visual |
-| 2   | MQTT        | -       | Protocolo de mensajería ligero |
-| 3   | MicroPython | -       | Lenguaje de programación optimizado para microcontroladores |
-| 4   | Raspbian    | -       | Sistema operativo compatible con Raspberry Pi |
-| 5   | Thonny      | -       | IDE compatible con ESP32 y MicroPython |
-| 6   | uPyCraft    | -       | IDE compatible con ESP32 y MicroPython |
+| ID | Software     | Versión | Tipo                               |
+|----|--------------|---------|------------------------------------|
+| 1  | Node-RED     | 2.1.0   | Entorno de programación visual     |
+| 2  | MQTT         | 3.1.1   | Protocolo de mensajería ligero     |
+| 3  | MicroPython  | 1.15    | Lenguaje de programación optimizado para microcontroladores |
+| 4  | Raspbian     | 11      | Sistema operativo compatible con Raspberry Pi |
+| 5  | Thonny       | 3.3.3   | IDE compatible con ESP32 y MicroPython |
+| 6  | uPyCraft     | 1.1.0   | IDE compatible con ESP32 y MicroPython |
 
 Conexiones:
 - Sensores y actuadores conectados a la Raspberry Pi a través de los puertos GPIO.
