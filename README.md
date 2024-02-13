@@ -103,7 +103,9 @@ Nota: Las estimaciones de tiempo son aproximadas y pueden variar según la compl
 
 
 ## Prototipo dibujo
+
 | Concepto | Prototipo |
-| Uso      | ![WhatsApp Image 2024-02-12 at 9 14 12 PM](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/0e9b5acc-e60c-47f5-97bc-aee0f3a0d0a8) |
-| Aparato  | ![WhatsApp Image 2024-02-12 at 9 32 07 PM](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/1ca3decb-5d76-49ba-8366-4e07bc8e1905) |
+|----------|-----------|
+| Uso      | ![WhatsApp Image 2024-02-12 at 9 14 12 PM](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/0e9b5acc-e60c-47f5-97bc-aee0f3a0d0a8.png) |
+| Aparato  | ![WhatsApp Image 2024-02-12 at 9 32 07 PM](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/1ca3decb-5d76-49ba-8366-4e07bc8e1905.png) |
 
