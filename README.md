@@ -1,11 +1,11 @@
 # EquipoKBI
 Proyecto Tienda
 
-## Integrantes:
-|-|-|-|
-| Ivana Rocha Campos |1222100460|
-| Kevin Conejo Salazar |  |1222100714| 
-| Brayan Yohani Morales Narváez| |1222100518|
+| Nombre                    | Número de control |
+|---------------------------|---------------------------|
+| Ivana Rocha Campos        | 1222100460                |
+| Kevin Conejo Salazar      | 1222100714                |
+| Brayan Yohani Morales Narváez | 1222100518            |
 
 Carta de liberación del proyecto (Esta parte no ha sido realizada pues aun no hemos liverado el producto)
 Dirigida al Docente
@@ -15,22 +15,31 @@ Es una imagen jpg o png.
 Firmada por el empresario o docente ageno a la UTNG, agradeciendo la contribución de la UTNG.
 Hoja membretada (Logo de la empresa, dirección y contacto)
 
-###Lista del Hardware utilizado
+### Lista del Hardware utilizado
 | ID  | Componente                                              | Descripción                                                  | Imagen | Cantidad | Costo total |
 |-----|---------------------------------------------------------|--------------------------------------------------------------|--------|----------|-------------|
 | 1   | Raspberry Pi 4B (o superior) con adaptador de corriente | Mini ordenador de una sola placa con adaptador de corriente | () | 1        | $XX         |
-| 2   | Sensor de Sonido                                        | Sensor para detectar la presencia de sonidos en su entorno    | (https://avsuwzdjuo.cloudimg.io/v7/_cs_/2021/05/60aba2b80453c/ABX00019.png?w=400&org_if_sml=1) | 4| $118      |
-| 3   | Sensor de  Proximidad                                   | Sensor para  detectar la presencia o la cercanía de objeto    | (https://tiendadeelectronica.mx/wp-content/uploads/2022/06/sensor-de-proximidad-por-infrarrojo.jpg) | 4 | $70 |
-| 4   | Sensor de  Alejamiento                                  | Sensor para detecta la distancia entre el sensor y un objeto | (https://m.media-amazon.com/images/I/311mU7DJggL._AC_.jpg) | 4        | $108         |
-| 5   | Sensor de movimiento                                    | Sensor para detectar movimiento                              | (https://m.media-amazon.com/images/I/41yzyHkyT6L._SY445_SX342_QL70_ML2_.jpg) | 4        | $243         |
-| 6   | LED                                                     | Dispositivo de iluminación                                   | [(https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LEDES.jpg/300px-LEDES.jpg) | 4        | $60|
-| 7   | Motor                                                   | Dispositivo para generar movimiento                           | (https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/20367551d/mini-motor-de-corriente-directa.jpg) | 4| $25|
-| 8 | ESP32 (o módulo compatible)                            | Microcontrolador para comunicación inalámbrica               | [(https://avsuwzdjuo.cloudimg.io/v7/_cs_/2021/05/60aba2b80453c/ABX00019.png) | 1 | $120         |
-| 9  | Cables, resistencias y otros componentes                | Componentes necesarios para conexiones                        | (https://framad.es/wp-content/uploads/2021/03/componentes-cables-electricos.jpeg) |2| $289|
+| 2   | Sensor de Sonido                                        | Sensor para detectar la presencia de sonidos en su entorno    | (![ABX00019](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/3a0c5bd5-4cbc-4d20-b725-8813c7723cea)
+) | 4| $118      |
+| 3   | Sensor de  Proximidad                                   | Sensor para  detectar la presencia o la cercanía de objeto    | (![sensor-de-proximidad-por-infrarrojo](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/d356107c-e4c8-4d7d-930f-0b4dcbc8065e)
+) | 4 | $70 |
+| 4   | Sensor de  Alejamiento                                  | Sensor para detecta la distancia entre el sensor y un objeto | (![311mU7DJggL _AC_](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/37629584-e26d-49a4-9c22-b225ca632bc2)
+) | 4        | $108         |
+| 5   | Sensor de movimiento                                    | Sensor para detectar movimiento                              | (![41yzyHkyT6L _SY445_SX342_QL70_ML2_](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/3003ce48-390d-47e6-84b9-e7ee1aa5e135)
+) | 4        | $243         |
+| 6   | LED                                                     | Dispositivo de iluminación                                   | [(![LEDES](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/d1f311c5-ac3a-4c9b-a291-13ba9c4d0113)
+) | 4        | $60|
+| 7   | Motor                                                   | Dispositivo para generar movimiento                           | (![mini-motor-de-corriente-directa](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/d7b7ff47-11ed-44fb-be7e-1a354dff5761)
+) | 4| $25|
+| 8 | ESP32 (o módulo compatible)                            | Microcontrolador para comunicación inalámbrica               | [(![AR1191-ESP32-38-Pin-800x800](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/352e5ef4-a15d-44ed-9990-08e154238b29)
+) | 1 | $120         |
+| 9  | Cables, resistencias y otros componentes                | Componentes necesarios para conexiones                        | (![componentes-cables-electricos](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/54a1bc3f-8833-41eb-a842-2364c2408a1a)
+) |2| $289|
+| 1   | Raspberry Pi 4B (o superior) con adaptador de corriente | Mini ordenador de una sola placa con adaptador de corriente | (![51Gkift2dvL __AC_SX300_SY300_QL70_ML2_](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/24e5d376-8092-4242-99c7-29ab949d88ec)
+) | 1 | $347 |
 
 
-
-###Lista de Software utilizado
+## Lista de Software utilizado
 | ID  | Software    | Versión | Tipo        |
 |-----|-------------|---------|-------------|
 | 1   | Node-RED    | -       | Entorno de programación visual |
@@ -46,14 +55,14 @@ Conexiones:
 - Configuración de los dispositivos para la comunicación a través del protocolo MQTT.
 
 
-###Visión de Producto 
-##Público:
+## Visión de Producto 
+## Público:
 El público objetivo para el producto de la tienda de zapatos son los consumidores de calzado, 
 que pueden incluir hombres, mujeres y niños de diversas edades y gustos. Además, también 
 puede abarcar a personas interesadas en regalar calzado, así 
 como a compradores que buscan una amplia variedad de estilos y opciones.
 
-##Problema o necesidad:
+## Problema o necesidad:
 La problemática que enfrenta la tienda de zapatos es la seguridad, específicamente 
 el riesgo de robo de inventario y la intrusión no autorizada en el establecimiento.
 Esta situación genera preocupación tanto para los propietarios como para los clientes, ya que 
@@ -63,7 +72,7 @@ la reputación de la tienda y disminuir la confianza de los clientes en el estab
 la necesidad de implementar medidas efectivas para proteger el inventario y garantizar la seguridad tanto 
 de la propiedad como de los clientes es una prioridad clave para el negocio.
 
-##Solución:
+## Solución:
 la seguridad es una prioridad clave para proteger el inventario y garantizar 
 la tranquilidad de los propietarios y clientes. El proyecto de sistema de alarma 
 antirrobo con cámara integrada ofrece una solución innovadora y efectiva para abordar 
@@ -80,7 +89,7 @@ Con este sistema de seguridad en su lugar, los propietarios de la tienda y los c
  y sus pertenencias. Esto fomenta un entorno de compra seguro y confiable, lo que a su vez puede mejorar
  la satisfacción del cliente y la reputación de la tienda.{
 
-### Visión
+## Visión
 PARA el comprador de calzado que valora la experiencia de compra en una tienda física,
 QUIEN busca encontrar el par perfecto que refleje su estilo y ajuste cómodamente,
 EL "Zapatería ComfortFit" QUE ES UNA tienda de calzado física,
@@ -90,7 +99,7 @@ NUESTRO PRODUCTO se destaca por nuestro enfoque en la atención al cliente, dond
 individualizado y se aseguran de que cada cliente salga con un par de zapatos que se adapte a sus necesidades y preferencias específicas.
 
 
-### Conexión y Funcionalidad 
+## Conexión y Funcionalidad 
 | ID  | Historia de Usuario                            | Prioridad | Estimación | Como Probarlo   | Responsable |
 |-----|-----------------------------------------------|-----------|------------|-----------------|-------------|
 | 1   | Conexiones del circuito utilizando Wokwi    | Alta      | 2 horas    | Verificar las conexiones visuales en el software y confirmar que coinciden con el diseño del circuito. | [Nombre del Responsable] |
@@ -100,4 +109,4 @@ individualizado y se aseguran de que cada cliente salga con un par de zapatos qu
 Nota: Las estimaciones de tiempo son aproximadas y pueden variar según la complejidad de cada tarea y la experiencia del responsable.
 
 
-##Prototipo dibujo
+## Prototipo dibujo
