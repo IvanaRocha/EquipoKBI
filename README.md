@@ -82,14 +82,13 @@ Con este sistema de seguridad en su lugar, los propietarios de la tienda y los c
  la satisfacción del cliente y la reputación de la tienda.{
 
 ## Visión
-PARA el comprador de calzado que valora la experiencia de compra en una tienda física,
-QUIEN busca encontrar el par perfecto que refleje su estilo y ajuste cómodamente,
-EL "Zapatería ComfortFit" QUE ES UNA tienda de calzado física,
-QUE ofrece un servicio personalizado y experto para garantizar el ajuste perfecto y la satisfacción del cliente,
-A DIFERENCIA DE las grandes cadenas de tiendas donde la atención personalizada puede ser limitada,
-NUESTRO PRODUCTO se destaca por nuestro enfoque en la atención al cliente, donde nuestros expertos en calzado brindan asesoramiento 
-individualizado y se aseguran de que cada cliente salga con un par de zapatos que se adapte a sus necesidades y preferencias específicas.
+Para el cliente que busca una experiencia de compra personalizada y eficiente en una tienda de calzado, "Zapatería ComfortFit" ofrece un enfoque innovador utilizando tecnología IoT. A diferencia de las grandes cadenas de tiendas que pueden carecer de atención personalizada, nuestra solución IoT, "SmartFoot", transforma la experiencia de compra.
 
+SmartFoot integra una red de sensores inteligentes en la tienda y en el calzado mismo. Estos sensores recopilan datos en tiempo real sobre la interacción del cliente con los productos y el entorno de la tienda. Por ejemplo, los sensores en el calzado pueden medir la comodidad y el ajuste, mientras que los sensores en la tienda pueden monitorear el tráfico de clientes y las condiciones ambientales.
+
+Utilizando análisis avanzados de datos, SmartFoot proporciona recomendaciones personalizadas a los clientes basadas en sus preferencias de estilo, tamaño y comodidad. Además, los clientes pueden acceder a información detallada sobre cada producto, incluyendo características, disponibilidad de tallas y precios, a través de una aplicación móvil o una pantalla interactiva en la tienda.
+
+Nuestra plataforma IoT mejora la eficiencia operativa de la tienda al optimizar el inventario, predecir la demanda de productos y mejorar la gestión del personal. En última instancia, "Zapatería ComfortFit" ofrece una experiencia de compra única y satisfactoria, diferenciándose de las tiendas convencionales mediante la integración de tecnología IoT para ofrecer un servicio personalizado y de alta calidad a sus clientes.
 
 ## Conexión y Funcionalidad 
 | ID  | Historia de Usuario                            | Prioridad | Estimación | Como Probarlo   | Responsable |
